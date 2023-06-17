@@ -1,3 +1,3 @@
-### [Frontend: Responsive Blog App with Admin Panel](https://www.youtube.com/watch?v=dgfHwfC6bWE)
+### [Frontend & Backend]: Responsive Blog App with Admin Panel]
 
 ![](thumbnail.jpg)
